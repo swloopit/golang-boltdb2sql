@@ -3,7 +3,9 @@ migrate boltdb to sql
 
 # why
 migrate data from bucket/key-value to sql table/key/value
+
 the mapping is :
+
 bucket name == table name
 
 key == field of a table called key
